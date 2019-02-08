@@ -1,0 +1,3 @@
+1) Przyjrzec sie zwracanym typom i przypomniec sobie jak to jest z TASK
+2) Obczaic korzystanie z programu POSTMAN
+3) Skoro FindAsync jest taki madry ze najpierw sprawdza lokalnie w context a dopiero potem zapytania to czy to oznacza ze zwykle na DbSet wcale tak nie robia? MYslalem ze tak jest zawsze
